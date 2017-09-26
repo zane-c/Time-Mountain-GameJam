@@ -1,4 +1,4 @@
-![timemountain.gif](https://github.berkeley.edu/berkeley-gamedev/TimeMountain/blob/master/img/intro.gif)
+![timemountain.gif](/img/intro.gif)
 
 
 You are a treasure hunter who comes across a strange watch with a hidden secret. This is no ordinary watch, no... this watch allows you to travel through time! However, there is a catch: the more you use it to freeze time around you, the more time passes for you. After a little use, you quickly notice how much you've aged. And, in no time at all you will be older than your grandma.
