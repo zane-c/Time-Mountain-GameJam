@@ -21,7 +21,7 @@ public class PlayButton : MonoBehaviour {
 		"\"Although, no one who has set out for the mountain, has ever returned...\" he adds.",
 		"\"What, can't climb a little mountain?\" you scoff.",
 		"The old man looks passed your naivety and calmly remarks, \"Those who wish to cheat Death, must meet Death.\"",
-		"Having had enough of the man's old wise-tales, you hand him a small sack in exchange for the map and depart at once. Soon after departing the dark lit alleyways of the black market, you feel a presence following you.",
+		"Having had enough of the man's old wives' tales, you hand him a small sack in exchange for the map and depart at once. Soon after departing the dark lit alleyways of the black market, you feel a presence following you.",
 		"You check your shoulder twice but see no one. You set out for Time Mountain.",
 	};
 
