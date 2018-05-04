@@ -1,4 +1,4 @@
-![timemountain.gif](https://github.berkeley.edu/berkeley-gamedev/TimeMountain/blob/master/img/intro.gif)
+![timemountain.gif](/img/intro.gif)
 
 
 PLAY IT HERE: http://bitbyte.site/time-mountain 
